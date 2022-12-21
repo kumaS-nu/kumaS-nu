@@ -19,7 +19,7 @@ If you are interested in me, contact me from [here](#contact).
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=kumaS-nu)](https://github.com/ryo-ma/github-profile-trophy)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kumaS-nu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![kumaS-nu's GitHub stats](https://github-readme-stats.vercel.app/api?username=kumaS-nu)](https://github.com/anuraghazra/github-readme-stats)
+[![kumaS-nu's GitHub stats](https://github-readme-stats.vercel.app/api?username=kumaS-nu&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 ![kumaS-nu's GitHub repos per language](https://raw.githubusercontent.com/kumaS-nu/my-github-status/master/profile-summary-card-output/default/1-repos-per-language.svg)
 ![kumaS-nu's GitHub most commit language](https://raw.githubusercontent.com/kumaS-nu/my-github-status/master/profile-summary-card-output/default/2-most-commit-language.svg)
 ![kumaS-nu's GitHub profile details](https://raw.githubusercontent.com/kumaS-nu/my-github-status/master/profile-summary-card-output/default/0-profile-details.svg)
@@ -75,7 +75,7 @@ e-mail: kumachan0220ios@gmail.com
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=kumaS-nu)](https://github.com/ryo-ma/github-profile-trophy)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kumaS-nu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![kumaS-nu's GitHub stats](https://github-readme-stats.vercel.app/api?username=kumaS-nu)](https://github.com/anuraghazra/github-readme-stats)
+[![kumaS-nu's GitHub stats](https://github-readme-stats.vercel.app/api?username=kumaS-nu&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 ![kumaS-nu's GitHub repos per language](https://raw.githubusercontent.com/kumaS-nu/my-github-status/master/profile-summary-card-output/default/1-repos-per-language.svg)
 ![kumaS-nu's GitHub most commit language](https://raw.githubusercontent.com/kumaS-nu/my-github-status/master/profile-summary-card-output/default/2-most-commit-language.svg)
 ![kumaS-nu's GitHub profile details](https://raw.githubusercontent.com/kumaS-nu/my-github-status/master/profile-summary-card-output/default/0-profile-details.svg)
