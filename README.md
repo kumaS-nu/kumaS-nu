@@ -1,8 +1,8 @@
 [日本語はこちら](#日本語)
 
-# 🔍Now job hunting 
+# 👨‍🔬Now studying 
 
-If you are interested in me, contact me from [here](#contact).
+I must finish my master's graduate degree.
 
 ## Who is me
 
@@ -56,9 +56,9 @@ e-mail: kumachan0220ios@gmail.com
 
 # 日本語
 
-# 🔍就活中
+# 👨‍🔬研究中
 
-私に興味のある企業さんは[こちら](#連絡手段)より連絡いただけると嬉しいです．
+大学院を卒業しなければ．
 
 ## プロフィール
 
