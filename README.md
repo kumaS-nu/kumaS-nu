@@ -1,13 +1,11 @@
 [日本語はこちら](#日本語)
 
-# 👨‍🔬Now studying 
-
-I must finish my master's graduate degree.
+# Now working 
 
 ## Who is me
 
-- Master's degree for graduate students expected to graduate in March 2024
-- My major is information and communication engineering, and I am in a wireless communication laboratory
+- I've been a programmer/developer from April 2024
+- I'm developing web application
 - I develop games and applications as a hobby
 
 ### Academic achievements
@@ -28,6 +26,10 @@ I must finish my master's graduate degree.
 
 - C#
 - Unity
+- Ruby / RoR
+- HTML / CSS / JS / TS
+- React
+- AWS
 - C / C++
 - Python
 - Rust
@@ -56,14 +58,14 @@ e-mail: kumachan0220ios@gmail.com
 
 # 日本語
 
-# 👨‍🔬研究中
+# 労働中
 
-大学院を卒業しなければ．
+社会人として働いています。
 
 ## プロフィール
 
-- 24年3月卒業予定の大学院生（修士）です
-- 専攻は情報・通信工学で無線通信の研究室に所属しています
+- 24卒社会人です
+- Web系の開発をしています
 - ゲームやアプリを趣味で作成しています
 
 ### 業績
@@ -84,6 +86,10 @@ e-mail: kumachan0220ios@gmail.com
 
 - C#
 - Unity
+- Ruby / RoR
+- HTML / CSS / JS / TS
+- React
+- AWS
 - C / C++
 - Python
 - Rust
